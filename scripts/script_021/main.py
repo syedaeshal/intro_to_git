@@ -1,2 +1,2 @@
 person = {'name': 'Echo'}
-print(person.name)
+print(person[name])
